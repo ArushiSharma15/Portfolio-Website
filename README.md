@@ -47,8 +47,6 @@ HTML5
 
 Tailwind CSS
 
-# 3D Web Development
-
 Three.js
 
 React Three Fiber
