@@ -1,16 +1,133 @@
-# React + Vite
+# 3D Portfolio Website 
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive 3D developer portfolio website built with React.js, Node.js, Three.js, Tailwind CSS, JavaScript, and HTML5. The portfolio showcases my technical skills, projects, experience, and professional information through an interactive and responsive user interface.
 
-Currently, two official plugins are available:
+3D Developer Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A modern, responsive 3D developer portfolio website built with React.js, Node.js, Three.js, Tailwind CSS, JavaScript, and HTML5. The portfolio showcases my technical skills, projects, experience, and professional information through an interactive and responsive user interface.
 
-## React Compiler
+# About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is a personal developer portfolio designed to showcase my frontend development, backend development, JavaScript programming, React development, and 3D web development skills.
 
-## Expanding the Oxlint configuration
+The website combines a modern React-based frontend with interactive 3D elements to create an engaging user experience while maintaining responsive layouts across different screen sizes.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+3D Developer Portfolio
+
+A modern, responsive 3D developer portfolio website built with React.js, Node.js, Three.js, Tailwind CSS, JavaScript, and HTML5. The portfolio showcases my technical skills, projects, experience, and professional information through an interactive and responsive user interface.
+
+Live Demo
+
+Portfolio: Add your deployed Vercel URL here
+
+GitHub Repository: https://github.com/ArushiSharma15/Portfolio-Website
+
+About the Project
+
+This project is a personal developer portfolio designed to showcase my frontend development, backend development, JavaScript programming, React development, and 3D web development skills.
+
+The website combines a modern React-based frontend with interactive 3D elements to create an engaging user experience while maintaining responsive layouts across different screen sizes.
+
+# Key Features
+
+Responsive 3D developer portfolio
+
+Interactive 3D web components
+
+React component-based architecture
+
+Responsive UI using Tailwind CSS
+
+JavaScript-based frontend development
+
+Node.js development environment
+
+Interactive project showcase
+
+Technical skills section
+
+Contact form integration
+
+Responsive design for desktop, tablet, and mobile
+
+Reusable and maintainable components
+
+Git and GitHub version control
+
+3D Developer Portfolio
+
+A modern, responsive 3D developer portfolio website built with React.js, Node.js, Three.js, Tailwind CSS, JavaScript, and HTML5. The portfolio showcases my technical skills, projects, experience, and professional information through an interactive and responsive user interface.
+
+Live Demo
+
+Portfolio: Add your deployed Vercel URL here
+
+GitHub Repository: https://github.com/ArushiSharma15/Portfolio-Website
+
+About the Project
+
+This project is a personal developer portfolio designed to showcase my frontend development, backend development, JavaScript programming, React development, and 3D web development skills.
+
+The website combines a modern React-based frontend with interactive 3D elements to create an engaging user experience while maintaining responsive layouts across different screen sizes.
+
+Key Features
+
+Responsive 3D developer portfolio
+
+Interactive 3D web components
+
+React component-based architecture
+
+Responsive UI using Tailwind CSS
+
+JavaScript-based frontend development
+
+Node.js development environment
+
+Interactive project showcase
+
+Technical skills section
+
+Contact form integration
+
+Responsive design for desktop, tablet, and mobile
+
+Reusable and maintainable components
+
+Git and GitHub version control
+
+# Technologies Used
+
+# Frontend
+
+React.js
+
+JavaScript (ES6+)
+
+HTML5
+
+Tailwind CSS
+
+# 3D Web Development
+
+Three.js
+
+React Three Fiber
+
+Interactive 3D models and components
+
+# Backend / Runtime
+
+Node.js
+
+# Tools
+
+Git
+
+GitHub
+
+Vite
+
+npm
+
+VS Code
